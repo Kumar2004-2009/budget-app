@@ -1,7 +1,7 @@
 import React from 'react'
 import { Form } from 'react-router-dom'
 import { UserPlusIcon } from '@heroicons/react/24/solid'
-import illustration from '../assets/illustration.jpg'
+import illustration from '../assets/illustration.png'
 
 const Intro = () => {
   return (

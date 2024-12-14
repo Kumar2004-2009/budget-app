@@ -31,12 +31,14 @@ svg {
   --lh-1-4: 1.4;
 
   /* colors */
-  --accent: 183 74% 44%;
-  --bkg: 190 60% 98%;
+  --accent: 270 74% 44%;
+  --bkg: 270 66% 96%; /* Light pastel lavender */
   --text: 185 26% 9%;
   --muted: 183 8% 55%;
-  --light: 180 14% 85%;
-  --warning: 4 66% 63%;
+  --light: 270 30% 92%; /* Complementary lighter purple */
+  --warning: 0 100% 67%;
+
+
 
   /* utils */
   --space-xs: 8px;
